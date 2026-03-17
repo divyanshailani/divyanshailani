@@ -37,13 +37,13 @@ Every project ships in **2 phases:**
 | Phase | What | Tools |
 |---|---|---|
 | **1 — Logic** | Prove the math works. Runs in terminal. | Python · NumPy · Matplotlib |
-| **2 — Cinematic** | Same math. GPU-rendered in 3D dark void. | Blender 5 · bpy · Cycles |
+| **2 — Cinematic** | Same math. GPU-rendered in 3D dark void. | Blender 5 · bpy · EEVEE |
 
 ### 📐 The 10-Project Roadmap
 
 | # | Project | Core Concept | Status |
 |---|---|---|---|
-| **01** | **2D Linear Transform Animator** | Vectors · Determinant · Basis | 🔄 Phase 1 Complete |
+| **01** | **2D Linear Transform Animator** | Vectors · Determinant · Basis | ✅ Both Phases Complete |
 | 02 | Coordinate System Translator | Change of Basis | ⏳ |
 | 03 | Geometric Linear System Solver | Cramer's Rule | ⏳ |
 | 04 | Eigenvector Explorer — Stable Axes | Eigenvalues | ⏳ |
@@ -122,7 +122,7 @@ Every project ships in **2 phases:**
 | 3B1B — Essence of Linear Algebra | ✅ Complete |
 | Eigenvectors + Abstract Spaces (3B1B) | 🔄 In progress |
 | Mike X Cohen — NumPy + Python Maths | ⏳ Post-exams |
-| Blender bpy scripting | ⏳ Post-exams |
+| Blender bpy scripting | ✅ Project 01 shipped |
 | Taichi Lang — GPU physics | ⏳ Summer 2026 |
 | PyTorch + Gymnasium + RL | ⏳ Late 2026 |
 | NIMCET 2027 prep | ⏳ 2027 |
