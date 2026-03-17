@@ -44,15 +44,16 @@ Every project ships in **2 phases:**
 | # | Project | Core Concept | Status |
 |---|---|---|---|
 | **01** | **2D Linear Transform Animator** | Vectors · Determinant · Basis | ✅ Both Phases Complete |
-| 02 | Coordinate System Translator | Change of Basis | ⏳ |
-| 03 | Geometric Linear System Solver | Cramer's Rule | ⏳ |
-| 04 | Eigenvector Explorer — Stable Axes | Eigenvalues | ⏳ |
-| 05A | Solar System Simulator | Real Physics + NASA JPL Horizons API | ⏳ |
-| **05B** | **PROJECT VOID** | Non-Uniform Gravity + Custom A* | ⏳ |
-| 06 | Neural Network Visual Simulator | Backprop · PyTorch | ⏳ |
-| 07 | Optical Fiber & Internet Simulator | Wave Physics · WDM | ⏳ |
-| 08 | VOID AI — RL Gravity Navigator | Gymnasium · Stable Baselines3 | ⏳ |
-| 09 | Omniverse Digital Twin | OpenUSD · NVIDIA Omniverse | ⏳ |
+| 02 | 3D Linear Transformation Animator | Vectors · Determinant · Basis | ⏳ |
+| 03 | Coordinate System Translator | Change of Basis | ⏳ |
+| 04 | Geometric Linear System Solver | Cramer's Rule | ⏳ |
+| 05 | Eigenvector Explorer — Stable Axes | Eigenvalues | ⏳ |
+| 06A | Solar System Simulator | Real Physics + NASA JPL Horizons API | ⏳ |
+| **06B** | **PROJECT VOID** | Non-Uniform Gravity + Custom A* | ⏳ |
+| 07 | Neural Network Visual Simulator | Backprop · PyTorch | ⏳ |
+| 08 | Optical Fiber & Internet Simulator | Wave Physics · WDM | ⏳ |
+| 09 | VOID AI — RL Gravity Navigator | Gymnasium · Stable Baselines3 | ⏳ |
+| 10 | Omniverse Digital Twin | OpenUSD · NVIDIA Omniverse | ⏳ |
 
 ---
 
@@ -120,7 +121,7 @@ Every project ships in **2 phases:**
 | Topic | Status |
 |---|---|
 | 3B1B — Essence of Linear Algebra | ✅ Complete |
-| Eigenvectors + Abstract Spaces (3B1B) | 🔄 In progress |
+| Eigenvectors + Abstract Spaces (3B1B) | ✅ Complete |
 | Mike X Cohen — NumPy + Python Maths | ⏳ Post-exams |
 | Blender bpy scripting | ✅ Project 01 shipped |
 | Taichi Lang — GPU physics | ⏳ Summer 2026 |
