@@ -44,7 +44,7 @@ Every project ships in **2 phases:**
 | # | Project | Core Concept | Status |
 |---|---|---|---|
 | **01** | **2D Linear Transform Animator** | Vectors · Determinant · Basis | ✅ Both Phases Complete |
-| 02 | 3D Linear Transformation Animator | Vectors · Determinant · Basis | ⏳ |
+| **02** | **3D Linear Transformation Animator** | 3×3 Matrices · Space Lattice · î ĵ k̂ | ✅ Both Phases Complete |
 | 03 | Coordinate System Translator | Change of Basis | ⏳ |
 | 04 | Geometric Linear System Solver | Cramer's Rule | ⏳ |
 | 05 | Eigenvector Explorer — Stable Axes | Eigenvalues | ⏳ |
@@ -90,15 +90,15 @@ Every project ships in **2 phases:**
 ```
 3B1B Linear Algebra ✅
          ↓
-  Projects 01–04: Every LA concept proved visually in Python + Blender
+  Projects 01–05: Every LA concept proved visually in Python + Blender
          ↓
-  Project 05A: Real solar system — all 9 planets, NASA JPL real coordinates
+  Project 06A: Real solar system — all 9 planets, NASA JPL real coordinates
          ↓
-  Project 05B: PROJECT VOID — non-uniform gravity fields, custom A* navigation
+  Project 06B: PROJECT VOID — non-uniform gravity fields, custom A* navigation
          ↓
-  Project 08: RL agent learns to navigate VOID without any algorithm
+  Project 09: RL agent learns to navigate VOID without any algorithm
          ↓
-  Project 09: Ship everything to NVIDIA Omniverse — the same platform
+  Project 10: Ship everything to NVIDIA Omniverse — the same platform
                NVIDIA uses to train real-world robots
 ```
 
@@ -123,7 +123,7 @@ Every project ships in **2 phases:**
 | 3B1B — Essence of Linear Algebra | ✅ Complete |
 | Eigenvectors + Abstract Spaces (3B1B) | ✅ Complete |
 | Mike X Cohen — NumPy + Python Maths | ⏳ Post-exams |
-| Blender bpy scripting | ✅ Project 01 shipped |
+| Blender bpy scripting | ✅ Projects 01 + 02 shipped |
 | Taichi Lang — GPU physics | ⏳ Summer 2026 |
 | PyTorch + Gymnasium + RL | ⏳ Late 2026 |
 | NIMCET 2027 prep | ⏳ 2027 |
