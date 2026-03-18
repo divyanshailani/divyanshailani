@@ -1,77 +1,121 @@
-# Divyansh Ailani
+<div align="center">
 
-Python + NumPy + Blender developer building visual math and simulation systems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071018,45:0f2d37,100:00d9b7&height=180&section=header&text=Divyansh%20Ailani&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Python%20%2B%20NumPy%20%2B%20Blender%20for%20Visual%20Math%20and%20Simulation&descAlignY=62&descSize=16" width="100%" />
 
-Kanpur, India  
-BCA student, 4th semester
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=900&color=00D9B7&center=true&vCenter=true&width=900&lines=I+turn+abstract+math+into+things+you+can+run%2C+inspect%2C+and+render.;Linear+algebra+visuals+%E2%86%92+simulation+systems+%E2%86%92+RL+worlds.;Kanpur%2C+India+%E2%80%A2+BCA+student+%E2%80%A2+Simulation+Architect+in+progress.)](https://github.com/divyanshailani)
 
-[LinkedIn](https://www.linkedin.com/in/divyansh-ailani-225925380/) | [GitHub](https://github.com/divyanshailani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-ailani-225925380/)
+[![GitHub](https://img.shields.io/badge/GitHub-divyanshailani-181717?style=for-the-badge&logo=github)](https://github.com/divyanshailani)
+[![Open To](https://img.shields.io/badge/Open%20To-Internships%20%7C%20Research%20%7C%20Builder%20Roles-00d9b7?style=for-the-badge)](https://github.com/divyanshailani)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Blender bpy](https://img.shields.io/badge/Blender_bpy-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Simulation](https://img.shields.io/badge/Focus-Simulation%20Systems-00d9b7?style=flat-square)
+
+</div>
 
 ## What I Build
 
 I like turning abstract math into things you can run, inspect, and render.
 
-My current work sits at the intersection of:
-- linear algebra
-- numerical computing in Python
-- visual explanation through animation
-- Blender `bpy` pipelines for cinematic technical demos
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Featured Projects
+### Current Mode
+- Linear algebra visualizers
+- Numerical prototypes in Python
+- Blender `bpy` scenes for technical storytelling
+- Projects that prove concepts instead of just describing them
 
-### [Cramers-Rule-3D](https://github.com/divyanshailani/Cramers-Rule-3D)
-A geometric linear-system solver that visualizes Cramer's Rule as ratios of parallelepiped volumes. The project includes clean systems, skewed systems, and a Kirchhoff circuit example.
+</td>
+<td width="50%" valign="top">
 
-**Tech:** Python, NumPy, Blender `bpy`
+### Next Direction
+- Physics-based simulation systems
+- Non-uniform gravity worlds
+- RL agents inside custom environments
+- OpenUSD and NVIDIA Omniverse workflows
 
-### [Eigenvector-Explorer-3D](https://github.com/divyanshailani/Eigenvector-Explorer-3D)
-A 3D visualizer for eigenvalues and eigenvectors. It computes eigenpairs, classifies the behavior of each eigenvalue, and renders the stable axes of a transformation.
+</td>
+</tr>
+</table>
 
-**Tech:** Python, NumPy, Blender `bpy`
+## Featured Builds
 
-### [LA-Visual-Engine](https://github.com/divyanshailani/LA-Visual-Engine)
-A two-phase linear transformation project: first prove the math in Python and Matplotlib, then render the same idea cinematically in Blender.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/divyanshailani/Cramers-Rule-3D">
+<img src="https://raw.githubusercontent.com/divyanshailani/Cramers-Rule-3D/main/docs/assets/renders/Project_04_clean.gif" alt="Cramers Rule 3D" width="100%" />
+</a>
+<br/>
+<b><a href="https://github.com/divyanshailani/Cramers-Rule-3D">Cramer's Rule 3D</a></b>
+<br/>
+A geometric linear-system solver that turns determinant ratios into visible 3D volume changes, including a Kirchhoff circuit example.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/divyanshailani/Eigenvector-Explorer-3D">
+<img src="https://raw.githubusercontent.com/divyanshailani/Eigenvector-Explorer-3D/main/docs/assets/renders/Project_05_rotation_z.gif" alt="Eigenvector Explorer 3D" width="100%" />
+</a>
+<br/>
+<b><a href="https://github.com/divyanshailani/Eigenvector-Explorer-3D">Eigenvector Explorer 3D</a></b>
+<br/>
+A 3D visualizer for eigenvalues and stable axes, built to show why some directions survive a transformation.
+</td>
+</tr>
+</table>
 
-**Tech:** Python, NumPy, Matplotlib, Blender `bpy`
-
-### [Basis-Translator-3D](https://github.com/divyanshailani/Basis-Translator-3D)
-A change-of-basis visualizer built around overlapping coordinate systems and a fixed anchor vector, showing how the same point can be described in different coordinate languages.
-
-**Tech:** Python, NumPy, Blender `bpy`
+### More Projects
+- [LA-Visual-Engine](https://github.com/divyanshailani/LA-Visual-Engine) — 2D linear transformations proved in Python and rendered cinematically in Blender
+- [LA-Visual-Engine-3D](https://github.com/divyanshailani/LA-Visual-Engine-3D) — true 3D lattice transforms with 3×3 matrices and isometric camera staging
+- [Basis-Translator-3D](https://github.com/divyanshailani/Basis-Translator-3D) — a change-of-basis visualizer built around overlapping coordinate systems and a fixed anchor vector
 
 ## What I Can Build Today
 
 - Matrix and vector visualizers
-- Numerical prototypes for math and simulation ideas
-- CLI tools that explain abstract concepts through code
-- Blender `bpy` scenes that turn technical ideas into motion
+- Technical Python scripts that explain what the math is doing
+- Small simulation prototypes
+- Blender `bpy` pipelines that turn math into motion
+- Project structures that separate logic from cinematic rendering
 
-## Current Direction
+<details>
+<summary><b>Current Build Map</b></summary>
 
-I am building a longer project arc that grows from core math into simulation systems:
+```text
+Core maths
+   -> linear algebra visual engine
+   -> 3D basis and eigenspace projects
+   -> physics simulation systems
+   -> non-uniform gravity navigation
+   -> RL agents in custom worlds
+   -> OpenUSD / NVIDIA Omniverse
+```
 
-1. Linear algebra visual engine
-2. Physics-based simulation projects
-3. Non-uniform gravity navigation
-4. RL agents inside custom worlds
-5. OpenUSD and NVIDIA Omniverse workflows
-
-## Tech Stack
-
-**Current:** Python, NumPy, Matplotlib, Blender `bpy`  
-**Learning next:** Taichi, PyTorch, Gymnasium, OpenUSD / NVIDIA Omniverse
+</details>
 
 ## Open To
 
-I am especially interested in internships, research collaborations, and builder opportunities related to:
+I am especially interested in internships, research collaborations, and builder roles related to:
 - simulation
 - scientific computing
 - technical Python
 - graphics and visualization
 - developer tools for learning and explanation
 
+## Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=divyanshailani&show_icons=true&theme=transparent&title_color=00d9b7&text_color=c9d1d9&icon_color=00d9b7&ring_color=00d9b7&border_color=22303c" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshailani&layout=compact&theme=transparent&title_color=00d9b7&text_color=c9d1d9&border_color=22303c" height="160" />
+</div>
+
 ## Philosophy
 
 I like building from first principles: prove the idea in code, then make it visual enough to teach.
 
-That is the thread connecting everything I am working on now.
+<div align="center">
+<i>Kanpur, India -> The World</i>
+</div>
