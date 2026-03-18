@@ -46,8 +46,8 @@ Every project ships in **2 phases:**
 | **01** | **2D Linear Transform Animator** | Vectors · Determinant · Basis | ✅ Both Phases Complete |
 | **02** | **3D Linear Transformation Animator** | 3×3 Matrices · Space Lattice · î ĵ k̂ | ✅ Both Phases Complete |
 | **03** | **Basis Translator 3D** | Change of Basis · P⁻¹MP · Dual Lattice | ✅ Both Phases Complete |
-| 04 | Geometric Linear System Solver | Cramer's Rule | ⏳ |
-| 05 | Eigenvector Explorer — Stable Axes | Eigenvalues | ⏳ |
+| 04 | Geometric Linear System Solver | Cramer's Rule | ✅ Both Phases Complete |
+| 05 | Eigenvector Explorer — Stable Axes | Eigenvalues | ✅ Both Phases Complete |
 | 06A | Solar System Simulator | Real Physics + NASA JPL Horizons API | ⏳ |
 | **06B** | **PROJECT VOID** | Non-Uniform Gravity + Custom A* | ⏳ |
 | 07 | Neural Network Visual Simulator | Backprop · PyTorch | ⏳ |
