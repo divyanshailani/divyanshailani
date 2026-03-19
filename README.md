@@ -16,16 +16,22 @@
 
 </div>
 
-## What I Build
+## 🌌 The Masterpiece: Linear Algebra Visual Engine Series
 
-I like turning abstract math into things you can run, inspect, and render.
+I like turning abstract math into things you can run, inspect, and render. My core philosophy is simple: **"I like building from first principles: prove the idea in code, then make it visual enough to teach."**
+
+🚀 **[ENTER THE SHOWCASE HUB → Linear-Algebra-Visual-Engine-Series](https://github.com/divyanshailani/Linear-Algebra-Visual-Engine-Series)**
+
+This Showcase acts as the ultimate entry point to my Simulation Architect path. It houses 5 distinct physics / math engines built entirely from scratch to geometrically prove the hardest concepts in Linear Algebra (Vectors, 3D Matrices, Change of Basis, Cramer's Rule, Eigenvectors).
+
+## What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### Current Mode
-- Linear algebra visualizers
+- Linear algebra visualizers (5 completed engines)
 - Numerical prototypes in Python
 - Blender `bpy` scenes for technical storytelling
 - Projects that prove concepts instead of just describing them
@@ -33,9 +39,9 @@ I like turning abstract math into things you can run, inspect, and render.
 </td>
 <td width="50%" valign="top">
 
-### Next Direction
+### Next Direction: Physics Engines
+- **Solar System Simulator (N-body, Velocity Verlet integration)**
 - Physics-based simulation systems
-- Non-uniform gravity worlds
 - RL agents inside custom environments
 - OpenUSD and NVIDIA Omniverse workflows
 
@@ -43,7 +49,7 @@ I like turning abstract math into things you can run, inspect, and render.
 </tr>
 </table>
 
-## Featured Builds
+## The Featured Physics Engines
 
 <table>
 <tr>
@@ -54,7 +60,7 @@ I like turning abstract math into things you can run, inspect, and render.
 <br/>
 <b><a href="https://github.com/divyanshailani/Cramers-Rule-3D">Cramer's Rule 3D</a></b>
 <br/>
-A geometric linear-system solver that turns determinant ratios into visible 3D volume changes, including a Kirchhoff circuit example.
+A geometric linear-system solver that turns determinant ratios into visible 3D volume changes.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/divyanshailani/Eigenvector-Explorer-3D">
@@ -68,27 +74,19 @@ A 3D visualizer for eigenvalues and stable axes, built to show why some directio
 </tr>
 </table>
 
-### More Projects
+### The Foundations
 - [LA-Visual-Engine](https://github.com/divyanshailani/LA-Visual-Engine) — 2D linear transformations proved in Python and rendered cinematically in Blender
 - [LA-Visual-Engine-3D](https://github.com/divyanshailani/LA-Visual-Engine-3D) — true 3D lattice transforms with 3×3 matrices and isometric camera staging
 - [Basis-Translator-3D](https://github.com/divyanshailani/Basis-Translator-3D) — a change-of-basis visualizer built around overlapping coordinate systems and a fixed anchor vector
-
-## What I Can Build Today
-
-- Matrix and vector visualizers
-- Technical Python scripts that explain what the math is doing
-- Small simulation prototypes
-- Blender `bpy` pipelines that turn math into motion
-- Project structures that separate logic from cinematic rendering
 
 <details>
 <summary><b>Current Build Map</b></summary>
 
 ```text
 Core maths
-   -> linear algebra visual engine
-   -> 3D basis and eigenspace projects
-   -> physics simulation systems
+   -> linear algebra visual engine (Phase 1 Complete)
+   -> 3D basis and eigenspace projects (Phase 1 Complete)
+   -> physics simulation systems (Current Focus)
    -> non-uniform gravity navigation
    -> RL agents in custom worlds
    -> OpenUSD / NVIDIA Omniverse
@@ -111,10 +109,6 @@ I am especially interested in internships, research collaborations, and builder 
 <img src="https://github-readme-stats.vercel.app/api?username=divyanshailani&show_icons=true&theme=transparent&title_color=00d9b7&text_color=c9d1d9&icon_color=00d9b7&ring_color=00d9b7&border_color=22303c" height="160" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshailani&layout=compact&theme=transparent&title_color=00d9b7&text_color=c9d1d9&border_color=22303c" height="160" />
 </div>
-
-## Philosophy
-
-I like building from first principles: prove the idea in code, then make it visual enough to teach.
 
 <div align="center">
 <i>Kanpur, India -> The World</i>
