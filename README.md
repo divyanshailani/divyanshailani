@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071018,45:0f2d37,100:00d9b7&height=180&section=header&text=Divyansh%20Ailani&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Python%20%2B%20NumPy%20%2B%20Blender%20for%20Visual%20Math%20and%20Simulation&descAlignY=62&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071018,45:0f2d37,100:00d9b7&height=180&section=header&text=Divyansh%20Ailani&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Simulation%20Architect%20%7C%20Python%20%2B%20NumPy%20%2B%20Blender%20%2B%20FastAPI&descAlignY=62&descSize=16" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=900&color=00D9B7&center=true&vCenter=true&width=900&lines=I+turn+abstract+math+into+things+you+can+run%2C+inspect%2C+and+render.;Linear+algebra+visuals+%E2%86%92+simulation+systems+%E2%86%92+RL+worlds.;Kanpur%2C+India+%E2%80%A2+BCA+student+%E2%80%A2+Simulation+Architect+in+progress.)](https://github.com/divyanshailani)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=900&color=00D9B7&center=true&vCenter=true&width=980&lines=I+build+first-principles+simulation+systems+that+are+measurable+and+visual.;Math+reasoning+%E2%86%92+Python+engines+%E2%86%92+validation+%E2%86%92+cinematic+rendering.;Open+to+internships+in+Simulation%2C+Technical+AI%2C+and+Scientific+Computing.)](https://github.com/divyanshailani)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-ailani-225925380/)
 [![GitHub](https://img.shields.io/badge/GitHub-divyanshailani-181717?style=for-the-badge&logo=github)](https://github.com/divyanshailani)
@@ -13,19 +13,37 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Blender bpy](https://img.shields.io/badge/Blender_bpy-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Simulation](https://img.shields.io/badge/Focus-Simulation%20Systems-00d9b7?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Simulation%20Systems-00d9b7?style=flat-square)
 
 </div>
 
-## 🌌 The Masterpiece: Linear Algebra Visual Engine Series
+## About Me
 
-I like turning abstract math into things you can run, inspect, and render. My core philosophy is simple: **"I like building from first principles: prove the idea in code, then make it visual enough to teach."**
+I am a Simulation Architect in progress, currently building systems that turn abstract math into runnable, inspectable, and teachable software.
 
-🚀 **[ENTER THE SHOWCASE HUB → Linear-Algebra-Visual-Engine-Series](https://github.com/divyanshailani/Linear-Algebra-Visual-Engine-Series)**
+My working style is proof-driven:
+1. Understand the concept deeply.
+2. Build a numerical engine from first principles.
+3. Validate behavior with tests/checks.
+4. Render the concept visually for clarity.
 
-This Showcase acts as the ultimate entry point to my Simulation Architect path. It houses 5 distinct physics / math engines built entirely from scratch to geometrically prove the hardest concepts in Linear Algebra (Vectors, 3D Matrices, Change of Basis, Cramer's Rule, Eigenvectors).
+## Flagship Portfolio
 
-## The Featured Physics Engines
+## Linear Algebra Visual Engine Series
+
+This is my main body of work and the best entry point for recruiters.
+
+[**Open Master Showcase Repository**](https://github.com/divyanshailani/Linear-Algebra-Visual-Engine-Series)
+
+| Project | Core Idea | Engineering Outcome |
+|---|---|---|
+| [LA-Visual-Engine](https://github.com/divyanshailani/LA-Visual-Engine) | 2D transformations and determinant intuition | Matrix operations proved via geometric motion |
+| [LA-Visual-Engine-3D](https://github.com/divyanshailani/LA-Visual-Engine-3D) | 3x3 transforms in full space | Lattice deformation and basis-vector interpretation |
+| [Basis-Translator-3D](https://github.com/divyanshailani/Basis-Translator-3D) | Change of basis | Coordinate-frame translation with fixed physical anchor |
+| [Cramers-Rule-3D](https://github.com/divyanshailani/Cramers-Rule-3D) | Linear systems as geometry | Determinant-ratio solving visualized in 3D |
+| [Eigenvector-Explorer-3D](https://github.com/divyanshailani/Eigenvector-Explorer-3D) | Stable directions/eigenstructure | Eigenvectors and eigenvalues made spatially explicit |
+
+## Featured Builds
 
 <table>
 <tr>
@@ -36,7 +54,7 @@ This Showcase acts as the ultimate entry point to my Simulation Architect path. 
 <br/>
 <b><a href="https://github.com/divyanshailani/Cramers-Rule-3D">Cramer's Rule 3D</a></b>
 <br/>
-A geometric linear-system solver that turns determinant ratios into visible 3D volume changes.
+A geometric solver where linear systems become visible 3D volume transformations.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/divyanshailani/Eigenvector-Explorer-3D">
@@ -45,97 +63,37 @@ A geometric linear-system solver that turns determinant ratios into visible 3D v
 <br/>
 <b><a href="https://github.com/divyanshailani/Eigenvector-Explorer-3D">Eigenvector Explorer 3D</a></b>
 <br/>
-A 3D visualizer for eigenvalues and stable axes, built to show why some directions survive a transformation.
+A spatial engine showing why certain directions remain invariant under transformation.
 </td>
 </tr>
 </table>
 
-### The Foundations
-- [LA-Visual-Engine](https://github.com/divyanshailani/LA-Visual-Engine) — 2D linear transformations proved in Python and rendered cinematically in Blender
-- [LA-Visual-Engine-3D](https://github.com/divyanshailani/LA-Visual-Engine-3D) — true 3D lattice transforms with 3×3 matrices and isometric camera staging
-- [Basis-Translator-3D](https://github.com/divyanshailani/Basis-Translator-3D) — a change-of-basis visualizer built around overlapping coordinate systems and a fixed anchor vector
+## Additional Project (RL Environment)
 
----
+- [Anagram Quest OpenEnv](https://github.com/divyanshailani/anagram-quest-openenv)
+- [Live Demo on Hugging Face](https://ailanidivyansh-word-guessing-env.hf.space/web)
 
-## 🔤 Anagram Quest — RL Word-Guessing Environment
+## Why This Profile Is Different
 
-**[→ Play Live in Browser](https://ailanidivyansh-word-guessing-env.hf.space/web)** &nbsp;|&nbsp; **[GitHub Repo](https://github.com/divyanshailani/anagram-quest-openenv)**
+- I do not stop at notebooks: I ship end-to-end systems.
+- I combine mathematical depth with software execution.
+- I can explain hard concepts visually for non-specialists.
+- I build with reproducibility and deployment in mind.
 
-An RL-ready word guessing environment with 5 progressive difficulty levels, a strategic banking system, and dense reward shaping. Built with the [OpenEnv](https://github.com/openenv) framework.
+## Current Direction
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://ailanidivyansh-word-guessing-env.hf.space/web">
-<img src="https://raw.githubusercontent.com/divyanshailani/anagram-quest-openenv/main/docs/welcome.png" alt="Anagram Quest Welcome" width="100%" />
-</a>
-<br/>
-<em>Welcome screen — rules, rewards, and banking system</em>
-</td>
-<td width="50%" valign="top">
-<a href="https://ailanidivyansh-word-guessing-env.hf.space/web">
-<img src="https://raw.githubusercontent.com/divyanshailani/anagram-quest-openenv/main/docs/gameplay.png" alt="Anagram Quest Gameplay" width="100%" />
-</a>
-<br/>
-<em>Gameplay — Level 1 with word tracking and level history</em>
-</td>
-</tr>
-</table>
-
----
-
-## What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Current Mode
-- Linear algebra visualizers (5 completed engines)
-- RL environments with dense reward systems
-- Numerical prototypes in Python
-- Blender `bpy` scenes for technical storytelling
-- Projects that prove concepts instead of just describing them
-
-</td>
-<td width="50%" valign="top">
-
-### Next Direction: Physics Engines
-- **Solar System Simulator (N-body, Velocity Verlet integration)**
-- Physics-based simulation systems
-- RL agents inside custom environments
-- LLM fine-tuning for game agents (mlx-lm on Apple Silicon)
-- OpenUSD and NVIDIA Omniverse workflows
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>Current Build Map</b></summary>
-
-```text
-Core maths
-   -> linear algebra visual engine (Phase 1 Complete)
-   -> 3D basis and eigenspace projects (Phase 1 Complete)
-   -> RL word-guessing environment (Live on HF Spaces)
-   -> physics simulation systems (Current Focus)
-   -> non-uniform gravity navigation
-   -> RL agents in custom worlds
-   -> OpenUSD / NVIDIA Omniverse
-```
-
-</details>
+- Physics simulation systems (starting with N-body dynamics)
+- RL agents in custom environments
+- Technical AI systems for simulation workflows
+- OpenUSD / Omniverse-aligned long-term path
 
 ## Open To
 
-I am especially interested in internships, research collaborations, and builder roles related to:
-- simulation
-- scientific computing
-- technical Python
-- graphics and visualization
-- RL environments and AI agents
-- developer tools for learning and explanation
+I am actively open to internships, research collaborations, and builder roles in:
+- Simulation and scientific computing
+- Technical Python and backend systems
+- RL environments and agent workflows
+- Visualization/graphics-driven education tools
 
 ## Stats
 
@@ -145,5 +103,5 @@ I am especially interested in internships, research collaborations, and builder 
 </div>
 
 <div align="center">
-<i>Kanpur, India -> The World</i>
+<i>Kanpur, India • Building globally relevant simulation systems</i>
 </div>
