@@ -12,6 +12,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Blender bpy](https://img.shields.io/badge/Blender_bpy-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Simulation](https://img.shields.io/badge/Focus-Simulation%20Systems-00d9b7?style=flat-square)
 
 </div>
@@ -24,6 +25,31 @@ I like turning abstract math into things you can run, inspect, and render. My co
 
 This Showcase acts as the ultimate entry point to my Simulation Architect path. It houses 5 distinct physics / math engines built entirely from scratch to geometrically prove the hardest concepts in Linear Algebra (Vectors, 3D Matrices, Change of Basis, Cramer's Rule, Eigenvectors).
 
+## 🔤 Anagram Quest — RL Word-Guessing Environment
+
+**[→ Play Live in Browser](https://ailanidivyansh-word-guessing-env.hf.space/web)** &nbsp;|&nbsp; **[GitHub Repo](https://github.com/divyanshailani/anagram-quest-openenv)**
+
+An RL-ready word guessing environment with 5 progressive difficulty levels, a strategic banking system, and dense reward shaping. Built with the [OpenEnv](https://github.com/openenv) framework.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://ailanidivyansh-word-guessing-env.hf.space/web">
+<img src="https://raw.githubusercontent.com/divyanshailani/anagram-quest-openenv/main/docs/welcome.png" alt="Anagram Quest Welcome" width="100%" />
+</a>
+<br/>
+<em>Welcome screen — rules, rewards, and banking system</em>
+</td>
+<td width="50%" valign="top">
+<a href="https://ailanidivyansh-word-guessing-env.hf.space/web">
+<img src="https://raw.githubusercontent.com/divyanshailani/anagram-quest-openenv/main/docs/gameplay.png" alt="Anagram Quest Gameplay" width="100%" />
+</a>
+<br/>
+<em>Gameplay — Level 1 with word tracking and level history</em>
+</td>
+</tr>
+</table>
+
 ## What I Build
 
 <table>
@@ -32,6 +58,7 @@ This Showcase acts as the ultimate entry point to my Simulation Architect path. 
 
 ### Current Mode
 - Linear algebra visualizers (5 completed engines)
+- RL environments with dense reward systems
 - Numerical prototypes in Python
 - Blender `bpy` scenes for technical storytelling
 - Projects that prove concepts instead of just describing them
@@ -43,6 +70,7 @@ This Showcase acts as the ultimate entry point to my Simulation Architect path. 
 - **Solar System Simulator (N-body, Velocity Verlet integration)**
 - Physics-based simulation systems
 - RL agents inside custom environments
+- LLM fine-tuning for game agents (mlx-lm on Apple Silicon)
 - OpenUSD and NVIDIA Omniverse workflows
 
 </td>
@@ -86,6 +114,7 @@ A 3D visualizer for eigenvalues and stable axes, built to show why some directio
 Core maths
    -> linear algebra visual engine (Phase 1 Complete)
    -> 3D basis and eigenspace projects (Phase 1 Complete)
+   -> RL word-guessing environment (Live on HF Spaces)
    -> physics simulation systems (Current Focus)
    -> non-uniform gravity navigation
    -> RL agents in custom worlds
@@ -101,6 +130,7 @@ I am especially interested in internships, research collaborations, and builder 
 - scientific computing
 - technical Python
 - graphics and visualization
+- RL environments and AI agents
 - developer tools for learning and explanation
 
 ## Stats
