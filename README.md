@@ -25,58 +25,6 @@ I like turning abstract math into things you can run, inspect, and render. My co
 
 This Showcase acts as the ultimate entry point to my Simulation Architect path. It houses 5 distinct physics / math engines built entirely from scratch to geometrically prove the hardest concepts in Linear Algebra (Vectors, 3D Matrices, Change of Basis, Cramer's Rule, Eigenvectors).
 
-## 🔤 Anagram Quest — RL Word-Guessing Environment
-
-**[→ Play Live in Browser](https://ailanidivyansh-word-guessing-env.hf.space/web)** &nbsp;|&nbsp; **[GitHub Repo](https://github.com/divyanshailani/anagram-quest-openenv)**
-
-An RL-ready word guessing environment with 5 progressive difficulty levels, a strategic banking system, and dense reward shaping. Built with the [OpenEnv](https://github.com/openenv) framework.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://ailanidivyansh-word-guessing-env.hf.space/web">
-<img src="https://raw.githubusercontent.com/divyanshailani/anagram-quest-openenv/main/docs/welcome.png" alt="Anagram Quest Welcome" width="100%" />
-</a>
-<br/>
-<em>Welcome screen — rules, rewards, and banking system</em>
-</td>
-<td width="50%" valign="top">
-<a href="https://ailanidivyansh-word-guessing-env.hf.space/web">
-<img src="https://raw.githubusercontent.com/divyanshailani/anagram-quest-openenv/main/docs/gameplay.png" alt="Anagram Quest Gameplay" width="100%" />
-</a>
-<br/>
-<em>Gameplay — Level 1 with word tracking and level history</em>
-</td>
-</tr>
-</table>
-
-## What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Current Mode
-- Linear algebra visualizers (5 completed engines)
-- RL environments with dense reward systems
-- Numerical prototypes in Python
-- Blender `bpy` scenes for technical storytelling
-- Projects that prove concepts instead of just describing them
-
-</td>
-<td width="50%" valign="top">
-
-### Next Direction: Physics Engines
-- **Solar System Simulator (N-body, Velocity Verlet integration)**
-- Physics-based simulation systems
-- RL agents inside custom environments
-- LLM fine-tuning for game agents (mlx-lm on Apple Silicon)
-- OpenUSD and NVIDIA Omniverse workflows
-
-</td>
-</tr>
-</table>
-
 ## The Featured Physics Engines
 
 <table>
@@ -106,6 +54,62 @@ A 3D visualizer for eigenvalues and stable axes, built to show why some directio
 - [LA-Visual-Engine](https://github.com/divyanshailani/LA-Visual-Engine) — 2D linear transformations proved in Python and rendered cinematically in Blender
 - [LA-Visual-Engine-3D](https://github.com/divyanshailani/LA-Visual-Engine-3D) — true 3D lattice transforms with 3×3 matrices and isometric camera staging
 - [Basis-Translator-3D](https://github.com/divyanshailani/Basis-Translator-3D) — a change-of-basis visualizer built around overlapping coordinate systems and a fixed anchor vector
+
+---
+
+## 🔤 Anagram Quest — RL Word-Guessing Environment
+
+**[→ Play Live in Browser](https://ailanidivyansh-word-guessing-env.hf.space/web)** &nbsp;|&nbsp; **[GitHub Repo](https://github.com/divyanshailani/anagram-quest-openenv)**
+
+An RL-ready word guessing environment with 5 progressive difficulty levels, a strategic banking system, and dense reward shaping. Built with the [OpenEnv](https://github.com/openenv) framework.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://ailanidivyansh-word-guessing-env.hf.space/web">
+<img src="https://raw.githubusercontent.com/divyanshailani/anagram-quest-openenv/main/docs/welcome.png" alt="Anagram Quest Welcome" width="100%" />
+</a>
+<br/>
+<em>Welcome screen — rules, rewards, and banking system</em>
+</td>
+<td width="50%" valign="top">
+<a href="https://ailanidivyansh-word-guessing-env.hf.space/web">
+<img src="https://raw.githubusercontent.com/divyanshailani/anagram-quest-openenv/main/docs/gameplay.png" alt="Anagram Quest Gameplay" width="100%" />
+</a>
+<br/>
+<em>Gameplay — Level 1 with word tracking and level history</em>
+</td>
+</tr>
+</table>
+
+---
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Current Mode
+- Linear algebra visualizers (5 completed engines)
+- RL environments with dense reward systems
+- Numerical prototypes in Python
+- Blender `bpy` scenes for technical storytelling
+- Projects that prove concepts instead of just describing them
+
+</td>
+<td width="50%" valign="top">
+
+### Next Direction: Physics Engines
+- **Solar System Simulator (N-body, Velocity Verlet integration)**
+- Physics-based simulation systems
+- RL agents inside custom environments
+- LLM fine-tuning for game agents (mlx-lm on Apple Silicon)
+- OpenUSD and NVIDIA Omniverse workflows
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>Current Build Map</b></summary>
