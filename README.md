@@ -19,17 +19,15 @@
 
 ## About Me
 
-I am a Simulation Architect in progress, currently building systems that turn abstract math into runnable, inspectable, and teachable software.
+I am a Simulation Architect in progress, building systems that turn abstract math into runnable, inspectable, and teachable software.
 
 My working style is proof-driven:
 1. Understand the concept deeply.
 2. Build a numerical engine from first principles.
-3. Validate behavior with tests/checks.
+3. Validate behavior with tests and checks.
 4. Render the concept visually for clarity.
 
-## Flagship Portfolio
-
-## Linear Algebra Visual Engine Series
+## Flagship Portfolio: Linear Algebra Visual Engine Series
 
 This is my main body of work and the best entry point for recruiters.
 
@@ -41,7 +39,7 @@ This is my main body of work and the best entry point for recruiters.
 | [LA-Visual-Engine-3D](https://github.com/divyanshailani/LA-Visual-Engine-3D) | 3x3 transforms in full space | Lattice deformation and basis-vector interpretation |
 | [Basis-Translator-3D](https://github.com/divyanshailani/Basis-Translator-3D) | Change of basis | Coordinate-frame translation with fixed physical anchor |
 | [Cramers-Rule-3D](https://github.com/divyanshailani/Cramers-Rule-3D) | Linear systems as geometry | Determinant-ratio solving visualized in 3D |
-| [Eigenvector-Explorer-3D](https://github.com/divyanshailani/Eigenvector-Explorer-3D) | Stable directions/eigenstructure | Eigenvectors and eigenvalues made spatially explicit |
+| [Eigenvector-Explorer-3D](https://github.com/divyanshailani/Eigenvector-Explorer-3D) | Stable directions and eigenstructure | Eigenvectors and eigenvalues made spatially explicit |
 
 ## Featured Builds
 
@@ -68,11 +66,6 @@ A spatial engine showing why certain directions remain invariant under transform
 </tr>
 </table>
 
-## Additional Project (RL Environment)
-
-- [Anagram Quest OpenEnv](https://github.com/divyanshailani/anagram-quest-openenv)
-- [Live Demo on Hugging Face](https://ailanidivyansh-word-guessing-env.hf.space/web)
-
 ## Why This Profile Is Different
 
 - I do not stop at notebooks: I ship end-to-end systems.
@@ -83,8 +76,8 @@ A spatial engine showing why certain directions remain invariant under transform
 ## Current Direction
 
 - Physics simulation systems (starting with N-body dynamics)
-- RL agents in custom environments
-- Technical AI systems for simulation workflows
+- RL environments and agent workflows
+- Technical AI systems for simulation pipelines
 - OpenUSD / Omniverse-aligned long-term path
 
 ## Open To
@@ -93,7 +86,7 @@ I am actively open to internships, research collaborations, and builder roles in
 - Simulation and scientific computing
 - Technical Python and backend systems
 - RL environments and agent workflows
-- Visualization/graphics-driven education tools
+- Visualization and graphics-driven education tools
 
 ## Stats
 
