@@ -52,11 +52,13 @@ An end-to-end AI game engineering project spanning RL environment design, real-t
 | Part 1 | [anagram-quest-openenv](https://github.com/divyanshailani/anagram-quest-openenv) | RL-compatible environment design, reward shaping, API modeling |
 | Part 2A | [anagram-quest-server](https://github.com/divyanshailani/anagram-quest-server) | FastAPI game orchestration, SSE streaming, MDP banking logic, production stability fixes |
 | Part 2B | [anagram-quest-frontend](https://github.com/divyanshailani/anagram-quest-frontend) | Premium Next.js UX, Player-vs-AI mode, reconnect-safe real-time game experience |
+| Part 2C | [anagram-quest-qwen3-0.6b-grpo-mlx](https://github.com/divyanshailani/anagram-quest-qwen3-0.6b-grpo-mlx) | Model release packaging, model card, and versioned weight publishing workflow |
 
 Live demos:
 - [Master App (Main)](https://anagram-quest-frontend.vercel.app)
 - [Player vs AI](https://anagram-quest-frontend.vercel.app/vs)
 - [OpenEnv Browser Version](https://ailanidivyansh-word-guessing-env.hf.space/web)
+- [Model Release Repo](https://github.com/divyanshailani/anagram-quest-qwen3-0.6b-grpo-mlx)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/divyanshailani/anagram-quest/main/docs/assets/showcase_01.png" alt="Anagram Quest PvAI Preview" width="88%" />
