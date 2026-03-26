@@ -41,6 +41,22 @@ This is my main body of work and the best entry point for recruiters.
 | [Cramers-Rule-3D](https://github.com/divyanshailani/Cramers-Rule-3D) | Linear systems as geometry | Determinant-ratio solving visualized in 3D |
 | [Eigenvector-Explorer-3D](https://github.com/divyanshailani/Eigenvector-Explorer-3D) | Stable directions and eigenstructure | Eigenvectors and eigenvalues made spatially explicit |
 
+## Flagship Portfolio: Anagram Quest AI Systems
+
+An end-to-end AI game engineering project spanning RL environment design, real-time streamed inference UX, and production deployment hardening.
+
+[**Open Master Repository (Full Journey + Architecture)**](https://github.com/divyanshailani/anagram-quest)
+
+| Layer | Repository | What It Demonstrates |
+|---|---|---|
+| Part 1 | [anagram-quest-openenv](https://github.com/divyanshailani/anagram-quest-openenv) | RL-compatible environment design, reward shaping, API modeling |
+| Part 2A | [anagram-quest-server](https://github.com/divyanshailani/anagram-quest-server) | FastAPI game orchestration, SSE streaming, MDP banking logic, production stability fixes |
+| Part 2B | [anagram-quest-frontend](https://github.com/divyanshailani/anagram-quest-frontend) | Premium Next.js UX, Player-vs-AI mode, reconnect-safe real-time game experience |
+
+Live demos:
+- [Player vs AI](https://anagram-quest-frontend.vercel.app/vs)
+- [OpenEnv Browser Version](https://ailanidivyansh-word-guessing-env.hf.space/web)
+
 ## Featured Builds
 
 <table>
