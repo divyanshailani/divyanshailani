@@ -54,10 +54,15 @@ An end-to-end AI game engineering project spanning RL environment design, real-t
 | Part 2B | [anagram-quest-frontend](https://github.com/divyanshailani/anagram-quest-frontend) | Premium Next.js UX, Player-vs-AI mode, reconnect-safe real-time game experience |
 
 Live demos:
+- [Master App (Main)](https://anagram-quest-frontend.vercel.app)
 - [Player vs AI](https://anagram-quest-frontend.vercel.app/vs)
 - [OpenEnv Browser Version](https://ailanidivyansh-word-guessing-env.hf.space/web)
 
-## Featured Builds
+<p align="center">
+<img src="https://raw.githubusercontent.com/divyanshailani/anagram-quest/main/docs/assets/showcase_01.png" alt="Anagram Quest PvAI Preview" width="88%" />
+</p>
+
+## Featured Builds (Linear Algebra Series)
 
 <table>
 <tr>
