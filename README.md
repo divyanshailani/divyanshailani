@@ -30,18 +30,7 @@ My engineering philosophy is **Systems-First**:
 
 ---
 
-## 🚀 Active Flagship: GTS-Engine (In Development)
-
-**Hardware-Aware Game-Theoretic Simulation Engine**  
-A high-throughput platform for real-time AI agent simulations with systems-grade runtime behavior.
-
-- **Stack:** Python, FastAPI, Redis Pub/Sub, WebSockets, Docker.
-- **Key Features:** Multi-agent matrix simulation, real-time telemetry streaming, and bare-metal profiling.
-- **Goal:** Achieve p95 latency <400ms under 1k RPS on constrained hardware.
-
----
-
-## 🎮 Portfolio Flagship: Anagram Quest AI Systems
+## 🎮 Featured Project: Anagram Quest AI Systems
 
 An end-to-end AI game engineering project spanning RL environment design, real-time streamed inference UX, and production deployment hardening.
 
@@ -65,25 +54,19 @@ An end-to-end AI game engineering project spanning RL environment design, real-t
 
 ---
 
-## 🛠️ Specialized Projects
+## 🛠️ Specialized Focus
 
-### [ATLAS-KV (Prototype)](https://github.com/divyanshailani/LSIE)
-Distributed systems exercise focusing on rate-limiting algorithms (Token Bucket/Sliding Window) and failure-mode analysis. Proves reliability design and distributed coordination.
-
----
+I am currently deepening my expertise in:
+- **Distributed Systems:** High-throughput APIs, Redis-backed state management, and rate-limiting algorithms.
+- **Networking:** WebSocket internals, backpressure strategies, and network resilience.
+- **Systems Engineering:** Linux kernel basics, memory management (stack vs heap), and RSS profiling.
+- **Applied ML:** Efficient model serving (MLX/vLLM) and deterministic feature pipelines.
 
 ## Why This Profile Is Different
 
 - **I ship systems, not just code:** I focus on the entire lifecycle—implementation, testing, profiling, and deployment.
 - **Systems + AI:** I am fluent in the data layer but my core expertise is in the infrastructure that runs it.
 - **Proof-Driven:** Every architectural choice is backed by benchmarks and trade-off analysis.
-
-## Current Focus (NUCLEAR 6M Plan)
-
-- **Distributed Systems:** High-throughput APIs, Redis-backed state management.
-- **Networking:** WebSocket internals, backpressure, and network resilience.
-- **Systems Engineering:** Linux kernel basics, memory management, and profiling.
-- **Applied ML:** Efficient model serving and feature pipelines.
 
 ## Open To
 
