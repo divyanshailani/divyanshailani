@@ -1,47 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071018,45:0f2d37,100:00d9b7&height=180&section=header&text=Divyansh%20Ailani&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Simulation%20Architect%20%7C%20Python%20%2B%20NumPy%20%2B%20Blender%20%2B%20FastAPI&descAlignY=62&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071018,45:0f2d37,100:00d9b7&height=180&section=header&text=Divyansh%20Ailani&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Simulation%20Systems%20Engineer%20%7C%20AI%20Infrastructure%20%2B%20Distributed%20Systems&descAlignY=62&descSize=16" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=900&color=00D9B7&center=true&vCenter=true&width=980&lines=I+build+first-principles+simulation+systems+that+are+measurable+and+visual.;Math+reasoning+%E2%86%92+Python+engines+%E2%86%92+validation+%E2%86%92+cinematic+rendering.;Open+to+internships+in+Simulation%2C+Technical+AI%2C+and+Scientific+Computing.)](https://github.com/divyanshailani)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=900&color=00D9B7&center=true&vCenter=true&width=980&lines=I+build+high-throughput+simulation+runtimes+for+AI+systems.;Backend+Engineering+%E2%86%92+Distributed+Systems+%E2%86%92+Real-time+Inference.;Obsessed+with+p95+latencies%2C+system+reliability%2C+and+hardware-aware+code.)](https://github.com/divyanshailani)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-ailani-225925380/)
 [![GitHub](https://img.shields.io/badge/GitHub-divyanshailani-181717?style=for-the-badge&logo=github)](https://github.com/divyanshailani)
-[![Open To](https://img.shields.io/badge/Open%20To-Internships%20%7C%20Research%20%7C%20Builder%20Roles-00d9b7?style=for-the-badge)](https://github.com/divyanshailani)
+[![Open To](https://img.shields.io/badge/Open%20To-AI%20Infra%20%7C%20Distributed%20Systems%20%7C%20Backend%20Roles-00d9b7?style=for-the-badge)](https://github.com/divyanshailani)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Blender bpy](https://img.shields.io/badge/Blender_bpy-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Simulation%20Systems-00d9b7?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </div>
 
 ## About Me
 
-I am a Simulation Architect in progress, building systems that turn abstract math into runnable, inspectable, and teachable software.
+I am a **Simulation Systems Engineer** focused on building the runtime infrastructure that makes AI systems fast, reliable, and observable. I bridge the gap between abstract mathematical models and production-grade distributed systems.
 
-My working style is proof-driven:
-1. Understand the concept deeply.
-2. Build a numerical engine from first principles.
-3. Validate behavior with tests and checks.
-4. Render the concept visually for clarity.
+My engineering philosophy is **Systems-First**:
+1. **Performance:** Profile first, optimize second. Target p95 latencies and high throughput.
+2. **Reliability:** Design for failure. Implement circuit breakers, backpressure, and graceful degradation.
+3. **Observability:** If it's not measured, it doesn't exist. Instrumentation is a first-class citizen.
+4. **First Principles:** Understand the hardware, the kernel, and the network to write better software.
 
-## Flagship Portfolio: Linear Algebra Visual Engine Series
+---
 
-This is my main body of work and the best entry point for recruiters.
+## 🚀 Active Flagship: GTS-Engine (In Development)
 
-[**Open Master Showcase Repository**](https://github.com/divyanshailani/Linear-Algebra-Visual-Engine-Series)
+**Hardware-Aware Game-Theoretic Simulation Engine**  
+A high-throughput platform for real-time AI agent simulations with systems-grade runtime behavior.
 
-| Project | Core Idea | Engineering Outcome |
-|---|---|---|
-| [LA-Visual-Engine](https://github.com/divyanshailani/LA-Visual-Engine) | 2D transformations and determinant intuition | Matrix operations proved via geometric motion |
-| [LA-Visual-Engine-3D](https://github.com/divyanshailani/LA-Visual-Engine-3D) | 3x3 transforms in full space | Lattice deformation and basis-vector interpretation |
-| [Basis-Translator-3D](https://github.com/divyanshailani/Basis-Translator-3D) | Change of basis | Coordinate-frame translation with fixed physical anchor |
-| [Cramers-Rule-3D](https://github.com/divyanshailani/Cramers-Rule-3D) | Linear systems as geometry | Determinant-ratio solving visualized in 3D |
-| [Eigenvector-Explorer-3D](https://github.com/divyanshailani/Eigenvector-Explorer-3D) | Stable directions and eigenstructure | Eigenvectors and eigenvalues made spatially explicit |
+- **Stack:** Python, FastAPI, Redis Pub/Sub, WebSockets, Docker.
+- **Key Features:** Multi-agent matrix simulation, real-time telemetry streaming, and bare-metal profiling.
+- **Goal:** Achieve p95 latency <400ms under 1k RPS on constrained hardware.
 
-## Flagship Portfolio: Anagram Quest AI Systems
+---
+
+## 🎮 Portfolio Flagship: Anagram Quest AI Systems
 
 An end-to-end AI game engineering project spanning RL environment design, real-time streamed inference UX, and production deployment hardening.
 
@@ -49,69 +49,47 @@ An end-to-end AI game engineering project spanning RL environment design, real-t
 
 | Layer | Repository | What It Demonstrates |
 |---|---|---|
-| Part 1 | [anagram-quest-openenv](https://github.com/divyanshailani/anagram-quest-openenv) | RL-compatible environment design, reward shaping, API modeling |
-| Part 2A | [anagram-quest-server](https://github.com/divyanshailani/anagram-quest-server) | FastAPI game orchestration, SSE streaming, MDP banking logic, production stability fixes |
-| Part 2B | [anagram-quest-frontend](https://github.com/divyanshailani/anagram-quest-frontend) | Premium Next.js UX, Player-vs-AI mode, reconnect-safe real-time game experience |
-| Part 2C | [anagram-quest-qwen3-0.6b-grpo-mlx](https://github.com/divyanshailani/anagram-quest-qwen3-0.6b-grpo-mlx) | Model release packaging, model card, and versioned weight publishing workflow |
+| **System** | [anagram-quest-server](https://github.com/divyanshailani/anagram-quest-server) | FastAPI orchestration, SSE streaming, MDP banking logic, production hardening. |
+| **UX** | [anagram-quest-frontend](https://github.com/divyanshailani/anagram-quest-frontend) | Real-time AI telemetry, reconnect-safe streaming, Next.js architecture. |
+| **RL** | [anagram-quest-openenv](https://github.com/divyanshailani/anagram-quest-openenv) | RL-compatible environment design, reward shaping, API modeling. |
+| **Model** | [anagram-quest-qwen3-0.6b-grpo-mlx](https://github.com/divyanshailani/anagram-quest-qwen3-0.6b-grpo-mlx) | GRPO fine-tuning, model release packaging, and weight publishing. |
 
-Live demos:
+**Live Demos:**
 - [Master App (Main)](https://anagram-quest-frontend.vercel.app)
-- [Player vs AI](https://anagram-quest-frontend.vercel.app/vs)
+- [Player vs AI Mode](https://anagram-quest-frontend.vercel.app/vs)
 - [OpenEnv Browser Version](https://ailanidivyansh-word-guessing-env.hf.space/web)
-- [Model Release Repo](https://github.com/divyanshailani/anagram-quest-qwen3-0.6b-grpo-mlx)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/divyanshailani/anagram-quest/main/docs/assets/showcase_01.png" alt="Anagram Quest PvAI Preview" width="88%" />
 </p>
 
-## Featured Builds (Linear Algebra Series)
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/divyanshailani/Cramers-Rule-3D">
-<img src="https://raw.githubusercontent.com/divyanshailani/Cramers-Rule-3D/main/docs/assets/renders/Project_04_clean.gif" alt="Cramers Rule 3D" width="100%" />
-</a>
-<br/>
-<b><a href="https://github.com/divyanshailani/Cramers-Rule-3D">Cramer's Rule 3D</a></b>
-<br/>
-A geometric solver where linear systems become visible 3D volume transformations.
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/divyanshailani/Eigenvector-Explorer-3D">
-<img src="https://raw.githubusercontent.com/divyanshailani/Eigenvector-Explorer-3D/main/docs/assets/renders/Project_05_rotation_z.gif" alt="Eigenvector Explorer 3D" width="100%" />
-</a>
-<br/>
-<b><a href="https://github.com/divyanshailani/Eigenvector-Explorer-3D">Eigenvector Explorer 3D</a></b>
-<br/>
-A spatial engine showing why certain directions remain invariant under transformation.
-</td>
-</tr>
-</table>
+## 🛠️ Specialized Projects
+
+### [ATLAS-KV (Prototype)](https://github.com/divyanshailani/LSIE)
+Distributed systems exercise focusing on rate-limiting algorithms (Token Bucket/Sliding Window) and failure-mode analysis. Proves reliability design and distributed coordination.
+
+---
 
 ## Why This Profile Is Different
 
-- I do not stop at notebooks: I ship end-to-end systems.
-- I combine mathematical depth with software execution.
-- I can explain hard concepts visually for non-specialists.
-- I build with reproducibility and deployment in mind.
+- **I ship systems, not just code:** I focus on the entire lifecycle—implementation, testing, profiling, and deployment.
+- **Systems + AI:** I am fluent in the data layer but my core expertise is in the infrastructure that runs it.
+- **Proof-Driven:** Every architectural choice is backed by benchmarks and trade-off analysis.
 
-## Current Direction
+## Current Focus (NUCLEAR 6M Plan)
 
-- Physics simulation systems (starting with N-body dynamics)
-- RL environments and agent workflows
-- Technical AI systems for simulation pipelines
-- OpenUSD / Omniverse-aligned long-term path
+- **Distributed Systems:** High-throughput APIs, Redis-backed state management.
+- **Networking:** WebSocket internals, backpressure, and network resilience.
+- **Systems Engineering:** Linux kernel basics, memory management, and profiling.
+- **Applied ML:** Efficient model serving and feature pipelines.
 
 ## Open To
 
-I am actively open to internships, research collaborations, and builder roles in:
-- Simulation and scientific computing
-- Technical Python and backend systems
-- RL environments and agent workflows
-- Visualization and graphics-driven education tools
+I am actively seeking **AI Infrastructure**, **Distributed Systems**, or **Backend Engineering** internships where I can contribute to high-impact simulation or inference platforms.
 
-## Stats
+---
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=divyanshailani&show_icons=true&theme=transparent&title_color=00d9b7&text_color=c9d1d9&icon_color=00d9b7&ring_color=00d9b7&border_color=22303c" height="160" />
